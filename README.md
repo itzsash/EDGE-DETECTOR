@@ -51,6 +51,8 @@ This design can detect both positive and negative edges of a clock or data signa
 
 ![Screenshot 2024-10-11 115516](https://github.com/user-attachments/assets/b40ae214-3ec0-4eca-905a-c4aa0585e676)
 
+![Screenshot 2024-10-11 115331](https://github.com/user-attachments/assets/31faf737-1501-43b3-9bc5-1deee60747ef)
+
 ![Screenshot 2024-10-11 115601](https://github.com/user-attachments/assets/85c56894-dfe6-473b-bac6-5061c9aa2da7)
 
 
